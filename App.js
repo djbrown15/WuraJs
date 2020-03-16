@@ -1,11 +1,11 @@
 
-var method = require('./WhileLoop.js');
+var method = require('./InsertDouble');
 
-var list = [10,20,40,50,60,70];
-var index = 2;
-number = 30;
+var num1 = 1;
+var num2 = 2;
+var array = [3, 4, 5];
 
 //Calls Method
-console.log(method.InsertArray(list, index, number));
+console.log(method.InsertDouble(num1, num2, array));
 
 

@@ -21,6 +21,6 @@ function InsertArray(array, index, num)
    
 }
 
-// This funtion uses Linear time complexity, steps = size of array.
+// This function uses Linear time complexity, steps = size of array.
 
 module.exports.InsertArray = InsertArray;
