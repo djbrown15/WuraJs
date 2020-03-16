@@ -5,7 +5,7 @@ var list = [10,20,40,50,60,70];
 var index = 2;
 number = 30;
 
-
+//Calls Method
 console.log(method.InsertArray(list, index, number));
 
 
