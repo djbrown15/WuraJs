@@ -1,5 +1,5 @@
 
-var method = require('./DoWhile.js');
+var method = require('./WhileLoop.js');
 
 var list = [10,20,40,50,60,70];
 var index = 2;
