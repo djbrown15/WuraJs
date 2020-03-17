@@ -1,11 +1,10 @@
 
-var method = require('./InsertDouble');
+var method = require('./ReturnIndex');
 
-var num1 = 1;
-var num2 = 2;
-var array = [3, 4, 5];
+var number = 5;
+var array = [1, 2, 3, 4, 5];
 
 //Calls Method
-console.log(method.InsertDouble(num1, num2, array));
+console.log(method.ReturnObject(number, array));
 
 
